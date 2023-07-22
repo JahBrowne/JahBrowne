@@ -4,7 +4,7 @@
   
 - My interest in programming grew from watching game development documentaries and videos. I was stupefied by the complexity and creativity needed to develop a game.
 
--  I’m currently trying to increase my skills in Java, C++ and C#.
+-  I’m currently trying to increase my skills in C++ and C#.
 
 
 <!---
